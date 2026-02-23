@@ -15,5 +15,5 @@ Uso a programação (PHP/MySQL) para aprimorar minha lógica de resolução de p
 Estou em busca de oportunidades como **Analista de Infraestrutura Júnior** ou **Analista de Suporte (N2)**.
 
 ### 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/joaozinvsg)
+- [LinkedIn](http://www.linkedin.com/in/joaovitorsg)
 - E-mail: contatojoaovitorsg@gmail.com
